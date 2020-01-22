@@ -1052,7 +1052,7 @@ sagittis lacus vel augue laoreet rutrum faucibus.">
                                Make sure to read docs first.</p>
                                <div>
                                    <a href="https://www.npmjs.com/package/vue-fontawesome-icon" target="_blank">
-                                    <base-button class="mr-2" color="secondary">read Docs</base-button>
+                                    <base-button class="mr-2" color="light">read Docs</base-button>
                                    </a>
                                    <a target="_blank" href="https://fontawesome.com/v4.7.0/icons/">
                                        <base-button color="dark">View icons</base-button>
@@ -1069,7 +1069,7 @@ sagittis lacus vel augue laoreet rutrum faucibus.">
                         <div class="col-md-6">
                             <h2 class="text-uppercase mt-5 mb-4">Slateblue Awesome Design System</h2>
                             <p class="lead mb-4">Slateblue Design system comes with login and register page to help you get started, also it has it's own
-                            beautiful documentation to help you out. It is based on <a href="http://www.bootcatch.com/lightly" target="_blank">Slateblue Theme</a>. Which is based on Bootstrap 4.3.</p>
+                            beautiful documentation to help you out. It is based on <a href="http://www.bootcatch.com/lightly" target="_blank">Supine Theme</a>. Which is based on Bootstrap 4.3.</p>
                             <base-button color="primary">
                                 See all components
                             </base-button>

@@ -1,6 +1,6 @@
 {
-  "name": "vue-supine-ui-design-system",
-  "version": "0.1.0",
+  "name": "vue-supine-design-system",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
