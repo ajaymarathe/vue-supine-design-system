@@ -1,7 +1,7 @@
 # Vue Supine Design System
-Hi there, Vue Supine Design System is open souce UI-KIT for Vue lovers based on Bootcatch Supine Theme thanks :)
+Vue Supine  Design System is is Coded, Written & Published By Bootcatch, Based on Vue & Bootstrap 4.x ( Bootcatch-themes ).
 
-[![NPM](https://img.shields.io/npm/v/fa-react-icon.svg)](https://www.npmjs.com/package/fa-react-icon)  [![NPM](https://img.shields.io/npm/dt/fa-react-icon.svg)](https://www.npmjs.com/package/fa-react-icon) 
+[![NPM](https://img.shields.io/npm/v/vue-supine-design-system.svg)](https://www.npmjs.com/package/vue-supine-design-system)  [![NPM](https://img.shields.io/npm/dt/vue-supine-design-system.svg)](https://www.npmjs.com/package/vue-supine-design-system) 
 ![license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Table of Contents
@@ -18,21 +18,19 @@ Hi there, Vue Supine Design System is open souce UI-KIT for Vue lovers based on 
 
 ## Quick Start
 ```
+$  npm i vue-supine-design-system --save
+
+Or
 //Clone the repo.
 
 $ git clone https://github.com/ajaymarathe/vue-supine-design-system.git  
-
-//After cloning Hit following commands.
-
-$ npm install
-
-$ npm run serve
 ```
 
-## Usage
+## [Usage](http://blog.bootcatch.com/post/vue-components-based-design-system-is-based-on-bootcatch-themes-and-vue)
 
-After downloading, you can do whatever you want to do, like you can modify all the componenets and css and then make awesome templates as you want.
-hope this will help you.
+After download you can simply import DesignSystem in your main.js file and then you ready to use.
+
+[Read Docs](http://blog.bootcatch.com/post/vue-components-based-design-system-is-based-on-bootcatch-themes-and-vue)
 
 ## About
 
@@ -60,6 +58,6 @@ If you like my work then please give ⭐ and do follow me :P
 
 ## Copyright and License
 
-Copyright 2019-2020 [Ajay Marathe](https://github.com/ajaymarathe). Code released under the [MIT](https://github.com/ajaymarathe/ng-apollo-design-system/blob/master/LICENSE) license.
+Copyright 2019-2020 [Ajay Marathe](https://github.com/ajaymarathe). Code released under the [MIT](https://github.com/ajaymarathe/vue-supine-design-system/blob/master/LICENSE) license.
 
 

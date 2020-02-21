@@ -1,6 +1,6 @@
 {
   "name": "vue-supine-design-system",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": "Vue Supine  Design System is is Coded, Written & Published By Bootcatch, Based on Vue & Bootstrap 4.x ( Bootcatch-themes ).",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/ajaymarathe/vue-supine-design-system.git"
   },
   "keywords": [
-    "vue-supine-design-system"
+    "vue-supine-design-system", "vue", "vuejs", "vue-design-system", "vue-supine", "vue-bootcatch", "bootcatch", "vue-uikit", "vue-bootstra-uikit", "ui-kit", "bootstrap"
   ],
   "author": "ajay marathe",
   "license": "MIT",
